@@ -7,6 +7,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=gruvbox&locale=en&hide_border=true&username=rkjain119" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&username=rkjain119" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=313d988f-8c6e-400a-a96d-cfa7d9ba3252&theme=gruvbox&custom_title=Time%20spent%20this%20year&line_height=25&langs_count=7&hide_border=true&hide=Other,Text,JSON,YAML" height="150" />
+ 
 </div>
 
 ###
@@ -32,3 +34,5 @@
 </div>
 
 ###
+
+<!-- [![rkjain119's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkjain119)](https://rushab.in) -->
